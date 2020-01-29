@@ -1,0 +1,5 @@
+Script started on Tue 28 Jan 2020 10:51:59 PM UTC
+]0;root@vagrant-ubuntu-trusty-64: /home/vagrant/holbertonschool-zero_day/0x03-gitroot@vagrant-ubuntu-trusty-64:/home/vagrant/holbertonschool-zero_day/0x03-git# exit
+exit
+
+Script done on Tue 28 Jan 2020 10:52:08 PM UTC
